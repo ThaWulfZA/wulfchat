@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558007364770",
+    "firebase_url": "https://wulfchat-fdd3f.firebaseio.com",
+    "project_id": "wulfchat-fdd3f",
+    "storage_bucket": "wulfchat-fdd3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558007364770:android:13827a31987e556f673bfb",
+        "android_client_info": {
+          "package_name": "com.wulfcorp.wulfchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558007364770-q602nl7crllphn2ae8umbfhb86riv88p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KEiPRXagQRMgKnj_5ZeD6UJsXirYP0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558007364770-q602nl7crllphn2ae8umbfhb86riv88p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

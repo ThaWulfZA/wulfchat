@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>558007364770-son7pj4j1epgc58gh408a13sb9t6ll20.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.558007364770-son7pj4j1epgc58gh408a13sb9t6ll20</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOduMupqfGMv56sgOMp0edCSeLcIEkoLo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>558007364770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wulfcorp.wulfchat</string>
+	<key>PROJECT_ID</key>
+	<string>wulfchat-fdd3f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wulfchat-fdd3f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:558007364770:ios:d9768c97e84e88f5673bfb</string>
+	<key>DATABASE_URL</key>
+	<string>https://wulfchat-fdd3f.firebaseio.com</string>
+</dict>
+</plist>
